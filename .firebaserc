@@ -1,0 +1,14 @@
+{
+  "projects": {
+    "default": "myssahomeassistant"
+  },
+  "targets": {
+    "myssahomeassistant": {
+      "hosting": {
+        "mishylillo": [
+          "mishylillo"
+        ]
+      }
+    }
+  }
+}
