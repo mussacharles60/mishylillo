@@ -1,8 +1,10 @@
+import './index.scss';
+
+import * as serviceWorkerRegistration from './serviceWorkerRegistration';
+
+import App from './components/app';
 import React from 'react';
 import ReactDOM from 'react-dom/client';
-import './index.css';
-import App from './App';
-import * as serviceWorkerRegistration from './serviceWorkerRegistration';
 import reportWebVitals from './reportWebVitals';
 
 const root = ReactDOM.createRoot(
