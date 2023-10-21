@@ -90,9 +90,7 @@ const LandingPage = () => {
             <span className='right-btn-text'>Email</span>
           </a>
           <a
-            href='https://
-            chat.whatsapp.com/GE3ETgPlgnzHLJ3rVojyhn
-            '
+            href='https://chat.whatsapp.com/GE3ETgPlgnzHLJ3rVojyhn'
             target='_blank'
             rel='noreferrer'
             className='right-btn'
@@ -142,9 +140,7 @@ const LandingPage = () => {
               <span className='title-text-4'>Kwa Bei Nafuu</span>
               <div className='links-lay'>
                 <a
-                  href='https://
-            chat.whatsapp.com/GE3ETgPlgnzHLJ3rVojyhn
-            '
+                  href='https://chat.whatsapp.com/GE3ETgPlgnzHLJ3rVojyhn'
                   target='_blank'
                   rel='noreferrer'
                   className='links-btn'
